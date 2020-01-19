@@ -1,4 +1,4 @@
-# DateTimeBegin,DateTimeEnd,Description,Difficulty,TrainingCampDays,Location,Distance
+# DateTimeBegin,DateTimeEnd,Description,CategoryAge,Difficulty,TrainingCampDays,Location,Distance
 2020-02-03,2020-02-07,München Tranining Camp,-,0,5,München,550
 2020-03-02,2020-03-07,OTC Nymburk,-,0,5,Nymburk,700
 2020-03-09.2020-03-11,EC Zagreb,Cadets,Zagreb,Zagreb,0
